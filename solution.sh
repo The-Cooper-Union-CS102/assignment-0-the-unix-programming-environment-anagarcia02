@@ -5,5 +5,5 @@ echo "hello bash" > myfile
 cat myfile
 cd ..
 mkdir mydir3
-cp -r mydir2 mydir3
+cp -r mydir3 mydir2
 ls | find | sort

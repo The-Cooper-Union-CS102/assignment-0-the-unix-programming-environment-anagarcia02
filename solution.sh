@@ -6,4 +6,4 @@ cat myfile
 cd ..
 mkdir mydir3
 cp -r mydir2 mydir3
-ls | find | sort
+ls | find | sort -r
